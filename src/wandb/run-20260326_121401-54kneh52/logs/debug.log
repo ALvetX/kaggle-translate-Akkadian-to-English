@@ -1,0 +1,9 @@
+2026-03-26 12:14:01,723 INFO    MainThread:22188 [wandb_setup.py:_flush():81] Current SDK version is 0.25.1
+2026-03-26 12:14:01,723 INFO    MainThread:22188 [wandb_setup.py:_flush():81] Configure stats pid to 22188
+2026-03-26 12:14:01,723 INFO    MainThread:22188 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2026-03-26 12:14:01,723 INFO    MainThread:22188 [wandb_init.py:setup_run_log_directory():717] Logging user logs to C:\Users\liu\Desktop\work\code\kaggle-ranslate Akkadian to English\src\wandb\run-20260326_121401-54kneh52\logs\debug.log
+2026-03-26 12:14:01,723 INFO    MainThread:22188 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to C:\Users\liu\Desktop\work\code\kaggle-ranslate Akkadian to English\src\wandb\run-20260326_121401-54kneh52\logs\debug-internal.log
+2026-03-26 12:14:01,723 INFO    MainThread:22188 [wandb_init.py:init():844] calling init triggers
+2026-03-26 12:14:01,723 INFO    MainThread:22188 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2026-03-26 12:14:01,723 INFO    MainThread:22188 [wandb_init.py:init():892] starting backend
